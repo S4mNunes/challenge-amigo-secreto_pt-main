@@ -35,3 +35,4 @@ function botaoSorteio(){
         resultadoMigos.innerHTML = "O sorteado foi: " + nomeSorteado;
     }
 }
+
